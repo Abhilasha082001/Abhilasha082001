@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilasha082001&" alt="abhilasha082001" /></p>
 
-<a href="https://github.com/Abhilasha082001/github-readme-activity-graph"><img  alt="Abhilasha Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhilasha082001&&theme=tokyonight"/></a>
+<a href="https://github.com/Abhilasha082001/github-readme-activity-graph"><img  alt="Abhilasha Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhilasha082001&&theme=black"/></a>
