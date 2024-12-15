@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhilasha kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilasha082001&label=Profile%20views&color=0e75b6&style=flat" alt="abhilasha082001" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilasha082001" alt="abhilasha082001" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,CP,WEB DEVELOPMENT**
+- 🌱 I’m currently learning **DSA, CP, WEB DEVELOPMENT**
 
 - 📫 How to reach me **kumarroyr436@gmail.com**
 
